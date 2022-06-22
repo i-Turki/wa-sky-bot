@@ -19,7 +19,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/i-Turki/wa-sky-bot)
 
 ## BUILD PACKS
 
